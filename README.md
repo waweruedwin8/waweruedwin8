@@ -9,7 +9,7 @@
 
 </div>
 
-🎯 **Support Engineer | Backend Developer | DevOps Enthusiast | AWS Cloud Practitioner | ALX Graduate**
+🎯 **Software Engineer | Backend Developer | DevOps Enthusiast | AWS Cloud Practitioner | ALX Graduate**
 
 I'm passionate about solving real-world problems with clean code, cloud-first thinking, and resilient backend systems. Currently focused on building scalable solutions that make a positive impact in African communities.
 
