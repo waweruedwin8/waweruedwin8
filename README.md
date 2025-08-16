@@ -86,7 +86,7 @@ I'm passionate about solving real-world problems with clean code, cloud-first th
 > 
 > 🔗 [Live Demo](https://waterwise-69336.web.app/) | ⭐ **Impact-focused project**
 
-### 🏠 [ALX Airbnb Clone Project](https://github.com/waweruedwin8/HonestSpace)
+### 🏠 [HonestSpace](https://github.com/waweruedwin8/HonestSpace)
 > **Full-Stack Rental Platform**
 > 
 > A comprehensive Realestate rental platform demonstrating full-stack development capabilities with detailed documentation.
