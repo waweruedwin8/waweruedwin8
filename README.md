@@ -9,13 +9,13 @@
 
 </div>
 
-🎯 **Software Engineer | Backend Developer | DevOps Enthusiast | AWS Cloud Practitioner | ALX Graduate**
+👨‍💻 **Software Engineer | Backend Developer | DevOps Enthusiast | AWS Cloud Practitioner | ALX Graduate**
 
 I'm passionate about solving real-world problems with clean code, cloud-first thinking, and resilient backend systems. Currently focused on building scalable solutions that make a positive impact in African communities.
 
 ---
 
-## 🚀 Tech Stack & Expertise
+## 🤹 Tech Stack & Expertise
 
 <div align="center">
 
@@ -54,7 +54,7 @@ I'm passionate about solving real-world problems with clean code, cloud-first th
 
 ---
 
-## 🎯 Featured Projects
+## 🚧 Featured Projects
 
 ### 🗄️ [EdSQL RDBMS Engine](https://github.com/waweruedwin8/edsql-rdbms)
 > **Custom Relational Database & HR Microservice System**
@@ -100,7 +100,7 @@ I'm passionate about solving real-world problems with clean code, cloud-first th
 > 
 > 🔗 [Live Demo](https://waterwise-69336.web.app/) | ⭐ **Impact-focused project**
 
-### 🔍 [GraphQL CRM Backend](https://github.com/waweruedwin8/alx-backend-graphql_crm)
+### 🧬 [GraphQL CRM Backend](https://github.com/waweruedwin8/alx-backend-graphql_crm)
 > **Modern CRM API with GraphQL**
 > 
 > A scalable CRM backend built with GraphQL, emphasizing clean architecture and efficient data querying.
@@ -138,10 +138,10 @@ I'm passionate about solving real-world problems with clean code, cloud-first th
 
 ## 💼 Current Focus
 
-- 🔧 **Building:** Scalable backend systems with cloud-native approaches
-- 📚 **Learning:** Advanced AWS services and DevOps practices
-- 🌍 **Contributing:** Open source projects focused on African tech solutions
-- 🎯 **Goal:** Preparing for AWS Solutions Architect certification
+-  **Building:** Scalable backend systems with cloud-native approaches
+-  **Learning:** Advanced AWS services and DevOps practices
+-  **Contributing:** Open source projects focused on African tech solutions
+-  **Goal:** Preparing for AWS Solutions Architect certification
 
 ---
 
@@ -165,12 +165,10 @@ I'm passionate about solving real-world problems with clean code, cloud-first th
 
 </div>
 
-### 💡 Open to:
+### Currently Open to:
 - Backend development opportunities
 - Cloud architecture projects
 - Open source collaborations
-- Mentoring junior developers
-- Technical writing and speaking
 
 ---
 
