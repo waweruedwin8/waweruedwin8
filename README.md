@@ -30,6 +30,7 @@ I'm passionate about solving real-world problems with clean code, cloud-first th
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -52,24 +53,36 @@ I'm passionate about solving real-world problems with clean code, cloud-first th
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=waweruedwin8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waweruedwin8&layout=compact&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=waweruedwin8&theme=tokyonight)
-
-</div>
-
----
-
 ## 🎯 Featured Projects
+
+### 🗄️ [EdSQL RDBMS Engine](https://github.com/waweruedwin8/edsql-rdbms)
+> **Custom Relational Database & HR Microservice System**
+>
+> A strictly typed database engine built from scratch in Python (no `sqlite3`), powering a hybrid architecture with a secure CLI and a full-stack Employee Directory dashboard.
+>
+> **Tech Stack:** Python (Core), FastAPI, Jinja2, Tailwind CSS, Swagger UI
+>
+> **Key Features:**
+> - Custom Indexing logic & Foreign Key constraint enforcement
+> - Hand-written SQL parser & Join algorithms (INNER, LEFT, CROSS)
+> - Hybrid Architecture: CLI Engine + Web Dashboard + REST API
+> - Automated strict compliance testing suite
+>
+> 🔗 [View Code](https://github.com/waweruedwin8/edsql-rdbms) | 🏆 **Pesapal Challenge Submission**
+
+### 🏠 [HonestSpace](https://github.com/waweruedwin8/HonestSpace)
+> **Full-Stack Rental Platform**
+> 
+> A comprehensive Realestate rental platform demonstrating full-stack development capabilities with detailed documentation.
+> 
+> **Tech Stack:** Python, Django, PostgreSQL, React
+> 
+> **Highlights:**
+> - Complete booking system
+> - User authentication & profiles
+> - Property management
+> - Payment integration concepts
+🔗 [View Code](https://github.com/waweruedwin8/HonestSpace)
 
 ### 🌊 [WaterWise](https://github.com/waweruedwin8/WaterWise)
 > **Smart Water Conservation Management Platform**
@@ -86,19 +99,6 @@ I'm passionate about solving real-world problems with clean code, cloud-first th
 > 
 > 🔗 [Live Demo](https://waterwise-69336.web.app/) | ⭐ **Impact-focused project**
 
-### 🏠 [HonestSpace](https://github.com/waweruedwin8/HonestSpace)
-> **Full-Stack Rental Platform**
-> 
-> A comprehensive Realestate rental platform demonstrating full-stack development capabilities with detailed documentation.
-> 
-> **Tech Stack:** Python, Django, PostgreSQL, React
-> 
-> **Highlights:**
-> - Complete booking system
-> - User authentication & profiles
-> - Property management
-> - Payment integration concepts
-
 ### 🔍 [GraphQL CRM Backend](https://github.com/waweruedwin8/alx-backend-graphql_crm)
 > **Modern CRM API with GraphQL**
 > 
@@ -111,7 +111,7 @@ I'm passionate about solving real-world problems with clean code, cloud-first th
 > - Modular architecture
 > - Comprehensive testing
 > - RESTful fallback endpoints
-
+🔗 [View Code](https://github.com/waweruedwin8/alx-backend-graphql_crm)
 ---
 
 ## 🎓 Certifications & Achievements
@@ -190,18 +190,3 @@ I'm passionate about solving real-world problems with clean code, cloud-first th
 **Thanks for visiting! 😊 Don't forget to ⭐ some repositories if you find them interesting!**
 
 </div>
-
-<!--
-**waweruedwin8/waweruedwin8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
