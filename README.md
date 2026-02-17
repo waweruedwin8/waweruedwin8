@@ -83,7 +83,7 @@ I'm passionate about solving real-world problems with clean code, cloud-first th
 > - User authentication & profiles
 > - Property management
 > - Payment integration concepts
-🔗 [View Code](https://github.com/waweruedwin8/HonestSpace)
+🔗 [View Demo](https://honestspace.lovable.app/)
 
 ### 🌊 [WaterWise](https://github.com/waweruedwin8/WaterWise)
 > **Smart Water Conservation Management Platform**
