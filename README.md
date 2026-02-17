@@ -56,6 +56,23 @@ I'm passionate about solving real-world problems with clean code, cloud-first th
 
 ## 🚧 Featured Projects
 
+### 🎵 [Maestro AI](https://maestro-ai-studio-v30.lovable.app/)
+
+> **Adaptive Music Workspace with Generative UI**
+>
+> An intelligent music application that dynamically renders the right musical tools based on natural language intent. No complex menus—just describe what you need, and the appropriate interactive component appears.
+>
+> **Tech Stack:** React 18, TypeScript, Gemini AI, abcjs, Tone.js, Supabase, Tailwind CSS
+>
+> **Key Features:**
+> - **Panic Practice Mode** - Voice part isolation with real-time note highlighting for choir singers
+> - **Composer Mode** - Natural language to ABC notation with duration-aware playback
+> - **Theory Teacher** - Interactive piano visualizations for chord and scale explanations
+> - **Sheet Music Upload** - AI-powered transcription from PDF/images to playable notation
+> - **Generative UI** - Context-aware component rendering based on user intent
+>
+> 🔗 [Live Demo](https://maestro-ai-studio-v30.lovable.app) | [View Code](https://github.com/waweruedwin8/maestro-ai)
+
 ### 🗄️ [EdSQL RDBMS Engine](https://github.com/waweruedwin8/edsql-rdbms)
 > **Custom Relational Database & HR Microservice System**
 >
