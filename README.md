@@ -88,20 +88,6 @@ I'm passionate about solving real-world problems with clean code, cloud-first th
 >
 > 🔗 [View Code](https://github.com/waweruedwin8/edsql-rdbms) | 🏆 **Pesapal Challenge Submission**
 
-### 🏠 [HonestSpace](https://github.com/waweruedwin8/HonestSpace)
-> **Full-Stack Rental Platform**
-> 
-> A comprehensive Realestate rental platform demonstrating full-stack development capabilities with detailed documentation.
-> 
-> **Tech Stack:** Python, Django, PostgreSQL, React
-> 
-> **Highlights:**
-> - Complete booking system
-> - User authentication & profiles
-> - Property management
-> - Payment integration concepts
-🔗 [View Demo](https://honestspace.lovable.app/)
-
 ### 🌊 [WaterWise](https://github.com/waweruedwin8/WaterWise)
 > **Smart Water Conservation Management Platform**
 > 
